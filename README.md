@@ -7,7 +7,7 @@
 
 Open and run the `src/Example.vi` to see how to use this queue timer.
 
-One or more timers are added to a queue to periodically enqueue messages. Use the `Start Stop.vi` and `Status.vi` to update or return information about the queue timers.
+Timers are added to a queue to periodically enqueue messages. Use the `Start Stop.vi` and `Status.vi` to update or return information about the queue timers.
 
 ![Example](docs/api/queuetimer/Example_QueueTimer.lvlib_Example.vi.png)
 
