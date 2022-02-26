@@ -25,7 +25,7 @@ When a timer is created, a daemon thread is launched to handle the periodic mess
 
 ![API](docs/api/queuetimer/Palette_API.png)
 
-All queue timers are cached in memory, use the `List.vi` to return all timers withing the application (grouped by queue reference).
+All queue timers are cached in memory, use the `List.vi` to return all timers within the application (grouped by queue reference).
 
 ## Jitter and Drift
 
